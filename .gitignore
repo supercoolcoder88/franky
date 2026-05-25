@@ -30,3 +30,5 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+# Don't push the test app
+test_app/
